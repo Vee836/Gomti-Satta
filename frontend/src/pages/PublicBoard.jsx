@@ -100,9 +100,9 @@ const PublicBoard = () => {
               <p className="text-[10px] uppercase tracking-widest text-slate-400 font-bold">Fastest Live Results</p>
             </div>
           </div>
-          <Link to="/login" className="text-xs font-bold uppercase tracking-wider px-4 py-2 rounded-lg bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition-colors border border-slate-700">
+          {/* <Link to="/login" className="text-xs font-bold uppercase tracking-wider px-4 py-2 rounded-lg bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition-colors border border-slate-700">
             Admin Login
-          </Link>
+          </Link> */}
         </div>
       </header>
 
